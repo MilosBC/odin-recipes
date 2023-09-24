@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ffc0cb;
+    font-family: Verdana, Arial, sans-serif;
+    
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    position: relative;
+    top: 230px;
+    
+   
+}
+
+.container img {
+    display: block;
+    margin: 0 auto;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+   
+}
+
+ul li {
+    display: inline-block;
+    padding: 10px 10px;
+    font-size: 1.3rem;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #0505e2;
+}
+
+h1 {
+    text-align: center;
+}
+
+a:hover {
+    color: black;
+}
+

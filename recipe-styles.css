@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    }
+
+    body {
+    margin: 0;
+    padding: 0;
+    background-color: #ffc0cb;
+    font-family: Verdana, Arial, sans-serif;
+    
+    }
+
+    a {
+    text-decoration: none;
+    color: #0505e2;
+   
+    
+    }
+
+    a:hover {
+    color: black;
+    }
+
+    div {
+        width: 600px;
+        font-size: 1.3rem;
+        margin: 0 auto;
+    }
+
+    img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    h1, h2, h3 {
+        text-align: center;
+    }
+
+    .link {
+        text-align: center;
+        padding: 10px;
+    }
